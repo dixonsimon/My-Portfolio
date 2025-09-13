@@ -5,6 +5,9 @@
 
 Welcome to the repository for my personal portfolio website. This project was built from scratch to showcase my skills, projects, and passion for Artificial Intelligence and Machine Learning.
 
+<img width="1326" height="828" alt="image" src="https://github.com/user-attachments/assets/b20b1874-6beb-42f6-a196-fc3d7c72c55b" />
+
+
 ### ✨ [Live Demo]
 
 **(https://dixonsimon.vercel.app/)**
