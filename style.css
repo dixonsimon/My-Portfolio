@@ -486,6 +486,10 @@
             transition: var(--transition);
         }
 
+        .contact-container a:hover {
+            color: var(--secondary);
+        }
+
         .contact-icon {
             width: 50px;
             height: 50px;
@@ -760,4 +764,5 @@
             .projects-grid {
                 grid-template-columns: 1fr;
             }
+
         }
